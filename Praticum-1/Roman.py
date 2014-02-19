@@ -28,7 +28,7 @@ def roman(entered):
 				#if the char is in the first half of the alphabet
 				elif ord(char) < 110:
 					#have the char go forward 13 characters
-					enciphered == chr(ord(char)+13)
+					enciphered += chr(ord(char)+13)
 		#otherwise (if not in the alphabet)
 		else:
 			#simply add the char to the string
