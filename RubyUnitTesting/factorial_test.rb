@@ -18,4 +18,8 @@ class FactorialTest < Test::Unit::TestCase #This is a class. (It's ok if you don
   def test_large
     assert_equal 3628800, factorial(10),"10! should be 3628800"
   end
+
+  def test_zero
+    assert_equal 1, factorial(0),"0! should be 1"
+  end
 end
