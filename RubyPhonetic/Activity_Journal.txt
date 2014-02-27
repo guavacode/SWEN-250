@@ -1,0 +1,21 @@
+
+SWEN-250 Activity Reflection
+Ruby - Phonetic
+ 
+Name: Ben Handel
+ 
+================================================================
+Start
+Estimated Time 01 30
+Plan:
+(Order of implementation, testing approach, estimation technique)
+ 
+Complete
+Actual Time    01 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+ 
+ 
+================================================================
+ 
+ 
