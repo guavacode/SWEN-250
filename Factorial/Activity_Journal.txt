@@ -1,0 +1,19 @@
+SWEN-250 Activity Reflection
+Ruby - Factorial with Unit Testing
+
+Name: Ben Handel
+
+================================================================
+Start
+Estimated Time	01 00
+Plan: Write code
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 50
+Observations: Code was written
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+
