@@ -21,6 +21,12 @@ pairs = bag.sort do |pair1, pair2|
 	end
 end
 
+longest = pairs.inject(0) do |l, v|
+    v[0].length > l ? v[0].length : l
+end
+
 pairs.each do |pair|
-	puts "word \'#{pair[0]}\' occurs #{pair[1]} times"
+	printf "%-*.*s ", longest, longest, pair[0]
+    #puts "word \'#{pair[0]}\' occurs #{pair[1]} times"
+    puts "*" * pair[1]
 end
