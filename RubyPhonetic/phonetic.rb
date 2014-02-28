@@ -40,7 +40,7 @@
         s << letterHash[c]
         s << " "
     end
-    return s
+    return s.rstrip
   end
 
   # Translate a sequence of phonetic alphabet code words 
@@ -52,7 +52,7 @@
     str.split(" ").each do |word|
         s << letterHash.key(word)
     end
-    return s
+    return s.rstrip
   end
 
   # If the line starts with A2P, call to_phonetic on the rest of the substring

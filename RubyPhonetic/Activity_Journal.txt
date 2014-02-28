@@ -7,12 +7,12 @@ Name: Ben Handel
 ================================================================
 Start
 Estimated Time 01 30
-Plan:
+Plan: Program is small so just write code until it works, then add and run some unit tests to verify functionality.
 (Order of implementation, testing approach, estimation technique)
  
 Complete
-Actual Time    01 00
-Observations:
+Actual Time    01 15
+Observations: Ruby likes to shoot out loads of illogical sounding errors.
 (Lessons learned, problems encountered, obstacles overcome, etc.)
  
  
